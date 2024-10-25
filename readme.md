@@ -4,6 +4,8 @@ PROJECT OVERVIEW-
 
 This is a 3-tier rule engine application developed using Python and Tkinter for the UI, which evaluates user eligibility based on dynamic rules defined with an Abstract Syntax Tree (AST). The application enables rule creation, modification, and evaluation using criteria such as age, department, income, and experience.
 
+[Watch the video on YouTube](https://youtu.be/vgty2Yfy53o?si=KCDL35eoPmMnEVBC)
+
 
 FEATURES-
 Dynamic Rule Creation: Easily create rules using a simple syntax (e.g., (age > 30 AND department = 'Sales') OR (salary > 50000)).
